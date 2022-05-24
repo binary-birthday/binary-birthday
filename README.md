@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @binary-birthday
 - 👀 I’m interested in JavaScript, React, GraphQL, Elm, Rust and WASM
 - 🌱 I’m currently learning Elm and Rust
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wademartin.dev@icloud.com or wademartin.dev
 
 <!---
