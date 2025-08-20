@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wade Martin
-- 👀 I’m interested in JavaScript, React, AWS, IaC, CI/CD,  GraphQL, Elm, Rust and WASM
-- 🌱 I’m currently learning Elm and Rust
+- 👀 I’m interested in JavaScript/TypeScript, React, Python, AWS, IaC, CI/CD, Docker, GraphQL, Rust and WASM
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me wademartin.dev@icloud.com
 
 <!---
